@@ -1,0 +1,14 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 1px red solid;
+}
+
+nav{
+	float: right;
+}
+
+ul{
+	display: flex;
+	list-style: none;
+}
